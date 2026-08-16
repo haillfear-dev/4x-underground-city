@@ -1,0 +1,1 @@
+{"expo":{"name":"UNDERGROUND","slug":"underground","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"dark","splash":{"backgroundColor":"#090b0d"},"android":{"package":"com.underground.city"},"ios":{"bundleIdentifier":"com.underground.city"},"web":{"bundler":"metro"}}}
